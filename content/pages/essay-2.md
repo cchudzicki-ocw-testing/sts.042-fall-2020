@@ -17,12 +17,8 @@ For paper 1, you completed a close reading of a primary source. For paper 2, you
 
 Using several sources, you will evaluate the relationships between a particular set of ideas and the institutions in which they were embedded. You should select one of the following topics and compose an essay of 6-7 double-spaced pages.
 
-- ***Option A:*** 
-    
-    General Relativity and the Ivory Tower
-- ***Option B:*** 
-    
-    Institutions and the Quantum Revolution
+- ***Option A:*** **General Relativity and the Ivory Tower**
+- ***Option B:*** **Institutions and the Quantum Revolution**
 
 While preparing your essay, you should consider at least three of the readings listed below. Use them as resources to help you articulate and defend a specific argument. The goal of the assignment is not to summarize the readings or merely paraphrase the authors’ arguments, but rather to articulate your own position and defend it using specific examples and evidence from these readings.
 
