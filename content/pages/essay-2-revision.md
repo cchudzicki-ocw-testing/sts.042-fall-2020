@@ -2,11 +2,9 @@
 content_type: page
 description: Instructions for revising the second essay of STS.042.
 draft: false
-title: Essay 2 Revision
+title: Paper 2 Revision
 uid: cbe8b9d8-448e-457e-90dc-c6e71fd7c858
 ---
-## Paper 2 Revision Exercise
-
 **Assignment:** Revise paper 2. Your revised paper should again be 6-7 double-spaced pages, using standard margins and a 12-point font.
 
 **Due date:** Friday of Week 11
