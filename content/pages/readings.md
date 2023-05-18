@@ -32,7 +32,7 @@ uid: e89e2633-dec3-43d5-9a9f-460ba9bf2381
 - Session 7: The Origins of General Relativity 
 - Session 8: Rethinking Light 
 
-**Key Date:** Paper 1 (4–5 pp.) due at end of week 5
+***Key Date:*** Paper 1 (4–5 pp.) due at end of week 5
 
 ### Week 6: Early Stirrings of Quantum Theory 
 
@@ -51,7 +51,7 @@ uid: e89e2633-dec3-43d5-9a9f-460ba9bf2381
 - Session 13: Physics under Hitler 
 - Session 14: Radar and the Manhattan Project 
 
-**Key Date:** Paper 2 (6–7 pp.) due at end of week 8
+***Key Date:*** Paper 2 (6–7 pp.) due at end of week 8
 
 ### Week 9: Wartime Projects 
 
@@ -67,7 +67,7 @@ uid: e89e2633-dec3-43d5-9a9f-460ba9bf2381
 
 - Session 19: Counterculture and Science 
 
-**Key Date:** Paper 2 rewrite due at end of week 11 
+***Key Date:*** Paper 2 rewrite due at end of week 11 
 
 ## IV. Feynman and Postwar Theory 
 
@@ -88,4 +88,4 @@ uid: e89e2633-dec3-43d5-9a9f-460ba9bf2381
 - Session 24: Cosmic Inflation 
 - Session 25: Course summary
 
-**Key Date:** Paper 3 (10–12 pp.) due at end of week 15
+***Key Date:*** Paper 3 (10–12 pp.) due at end of week 15
