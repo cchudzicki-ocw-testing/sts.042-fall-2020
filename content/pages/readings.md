@@ -18,8 +18,7 @@ uid: e89e2633-dec3-43d5-9a9f-460ba9bf2381
 ### Week 3: Electromagnetic Waves and the Ether 
 
 - Session 3: Worldviews, Wranglers, and the Making of Theoretical Physicists 
-- Session 4: Waves in the Ether   
-     
+- Session 4: Waves in the Ether  
 
 ## II. Einstein: Relativity, Quanta, and the Philosopher-Scientist 
 
@@ -43,8 +42,7 @@ uid: e89e2633-dec3-43d5-9a9f-460ba9bf2381
 ### Week 7: Emergence of Quantum Mechanics 
 
 - Session 11: Waves and Probabilities 
-- Session 12: Quantum Weirdness: Schrödinger’s Cat, EPR, and Bell’s Theorem   
-     
+- Session 12: Quantum Weirdness: Schrödinger’s Cat, EPR, and Bell’s Theorem  
 
 ## III. Oppenheimer: Physics, Physicists, and the State 
 
@@ -69,8 +67,7 @@ uid: e89e2633-dec3-43d5-9a9f-460ba9bf2381
 
 - Session 19: Counterculture and Science 
 
-**Key Date:** Paper 2 rewrite due at end of week 11  
- 
+**Key Date:** Paper 2 rewrite due at end of week 11 
 
 ## IV. Feynman and Postwar Theory 
 
