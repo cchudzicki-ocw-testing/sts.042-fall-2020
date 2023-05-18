@@ -4,10 +4,10 @@ leftnav:
   url: /pages/syllabus
   weight: 10
 - identifier: e89e2633-dec3-43d5-9a9f-460ba9bf2381
-  name: Readings
+  name: Calendar
   url: /pages/readings
   weight: 20
 - identifier: 169c70da-ef12-479c-a679-d3edd879838c
-  name: Readings2
+  name: Readings
   url: /pages/readings-v2
   weight: 30
