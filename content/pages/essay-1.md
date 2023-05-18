@@ -2,11 +2,9 @@
 content_type: page
 description: Instructions for the first essay in STS.042
 draft: false
-title: Essay 1
+title: Paper 1
 uid: f6c5638e-e9c8-49f0-87d4-bfed19acd4f7
 ---
-## Paper 1
-
 **Assignment:** Write a referee report on Einstein’s 1905 paper on special relativity
 
 **Due date:** Friday of Week 5
