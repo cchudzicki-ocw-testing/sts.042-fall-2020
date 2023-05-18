@@ -11,3 +11,7 @@ leftnav:
   name: Readings
   url: /pages/readings-v2
   weight: 30
+- identifier: b0c6d06d-639c-43cb-98b0-ad3da2d9e948
+  name: Essays
+  url: /pages/essays
+  weight: 40
