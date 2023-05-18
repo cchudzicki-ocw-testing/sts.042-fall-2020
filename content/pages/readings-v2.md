@@ -1,8 +1,8 @@
 ---
 content_type: page
-description: alter reading
+description: Reading list and optional readings for STS.042.
 draft: false
-title: Readings v2
+title: Readings
 uid: 169c70da-ef12-479c-a679-d3edd879838c
 ---
 ## I. Introduction and Background 
