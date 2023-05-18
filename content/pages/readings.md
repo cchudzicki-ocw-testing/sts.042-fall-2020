@@ -9,100 +9,86 @@ uid: e89e2633-dec3-43d5-9a9f-460ba9bf2381
 
 ### Week 1: Introduction and Course Logistics 
 
-Session 1: Introductory Lecture 
+- Session 1: Introductory Lecture 
 
 ### Week 2: The Nineteenth-Century Legacy 
 
-Session 2: Faraday, Thomson, and Maxwell: Lines of Force in the Ether 
+- Session 2: Faraday, Thomson, and Maxwell: Lines of Force in the Ether 
 
 ### Week 3: Electromagnetic Waves and the Ether 
 
-Session 3: Worldviews, Wranglers, and the Making of Theoretical Physicists 
-
-Session 4: Waves in the Ether 
-
- 
+- Session 3: Worldviews, Wranglers, and the Making of Theoretical Physicists 
+- Session 4: Waves in the Ether   
+     
 
 ## II. Einstein: Relativity, Quanta, and the Philosopher-Scientist 
 
 ### Week 4: Philosophy, Experiment, and Special Relativity 
 
-Session 5: Einstein and Experiment 
-
-Session 6: Reception of Special Relativity 
+- Session 5: Einstein and Experiment 
+- Session 6: Reception of Special Relativity 
 
 ### Week 5: From Relativity to Quantum Theory 
 
-Session 7: The Origins of General Relativity 
-
-Session 8: Rethinking Light 
+- Session 7: The Origins of General Relativity 
+- Session 8: Rethinking Light 
 
 **Key Date:** Paper 1 (4–5 pp.) due at end of week 5
 
 ### Week 6: Early Stirrings of Quantum Theory 
 
-Session 9: Rethinking Matter 
-
-Session 10: Matrices and Uncertainty 
+- Session 9: Rethinking Matter 
+- Session 10: Matrices and Uncertainty 
 
 ### Week 7: Emergence of Quantum Mechanics 
 
-Session 11: Waves and Probabilities 
-
-Session 12: Quantum Weirdness: Schrödinger’s Cat, EPR, and Bell’s Theorem 
-
- 
+- Session 11: Waves and Probabilities 
+- Session 12: Quantum Weirdness: Schrödinger’s Cat, EPR, and Bell’s Theorem   
+     
 
 ## III. Oppenheimer: Physics, Physicists, and the State 
 
 ### Week 8: Physics and the State 
 
-Session 13: Physics under Hitler 
-
-Session 14: Radar and the Manhattan Project 
+- Session 13: Physics under Hitler 
+- Session 14: Radar and the Manhattan Project 
 
 **Key Date:** Paper 2 (6–7 pp.) due at end of week 8
 
 ### Week 9: Wartime Projects 
 
-Session 15: Film: The Day After Trinity 
-
-Session 16: Secrecy and Security in the nuclear age 
+- Session 15: Film: The Day After Trinity 
+- Session 16: Secrecy and Security in the nuclear age 
 
 ### Week 10: Science, Secrecy, and Legacies of the Nuclear Age 
 
-Session 17: Film: Containment 
-
-Session 18: The Rise of Big Science 
+- Session 17: Film: Containment 
+- Session 18: The Rise of Big Science 
 
 ### Week 11: Cold War and Counterculture 
 
-Session 19: Counterculture and Science 
+- Session 19: Counterculture and Science 
 
-**Key Date:** Paper 2 rewrite due at end of week 11
-
+**Key Date:** Paper 2 rewrite due at end of week 11  
  
 
 ## IV. Feynman and Postwar Theory 
 
 ### Week 12: Particles and Fields 
 
-Session 20: The Conservative Revolution: QED and Renormalization 
-
-Session 21: The Challenge to Field Theory 
+- Session 20: The Conservative Revolution: QED and Renormalization 
+- Session 21: The Challenge to Field Theory 
 
 ### Week 13: Thanksgiving break
 
 ### Week 14: Standard Models 
 
-Session 22: Quarks, Gauge Fields, and the Rise of the Standard Model 
-
-Session 23: The Birth of Particle Cosmology 
+- Session 22: Quarks, Gauge Fields, and the Rise of the Standard Model 
+- Session 23: The Birth of Particle Cosmology 
 
 ### Week 15: Cosmology and Unification 
 
-Session 24: Cosmic Inflation 
-
-Session 25: Course summary
+- Session 24: Cosmic Inflation 
+- Session 25: Course summary
 
 **Key Date:** Paper 3 (10–12 pp.) due at end of week 15
