@@ -15,22 +15,6 @@ uid: b0c6d06d-639c-43cb-98b0-ad3da2d9e948
 
 **Grade:** Your grade on Paper 1 will contribute 25% of your final course grade.
 
-Imagine you are a young assistant of Max Planck’s in Berlin in 1905. As an editor of the journal *Annalen der Physik*, he hands you a new submission by a relatively unknown researcher named Albert Einstein. The paper is entitled “On the electrodynamics of moving bodies.” Based on the opening 4.5 pages of the paper (that is, the portion of the paper included in the course readings), write a 4-5 page referee report on the submission. Does the author justify his conclusions to your satisfaction? What is your recommendation: accept the paper for publication, reject it, or ask the author for revisions? If the latter, what revisions should the author undertake before you would deem the paper worthy of publication?
-
-To fulfill the spirit of the assignment, you should imagine that you are peer-reviewing the submission as someone would in 1905. That is, you have never heard of special relativity before; forget what you already know about the subject from present-day classes and textbooks. No matter what conclusion you draw (to accept the paper, reject it, or ask the author to make revisions and resubmit), you should articulate a clear thesis statement in your introductory paragraph, and use specific examples and evidence throughout the body of your paper to bolster your argument. 
-
-To help guide your referee report, consider the questions that today’s journals, such as the *Physical Review*, ask their own referees to consider:
-
-- Does the paper contain enough significant new physics to warrant publication?
-- Is the paper scientifically sound and not misleading?
-- Is the paper well-organized and clearly written?
-- Are the subject matter and style of presentation appropriate?
-- Are there appropriate and adequate references to related work?
-
-The only source you are required to use is the excerpt from Einstein’s 1905 paper as provided in the course readings. However, you may also want to include examples and evidence from other course readings, such as readings by James Clerk Maxwell, Bruce Hunt, Michel Janssen, Gerald Holton, Peter Galison, Amanda Gefter, or Andrew Warwick, which all inform how a young assistant of Max Planck’s may have understood the submission in 1905, along with the lectures of the course. (Including material from any of these sources, beyond Einstein’s own excerpt, is strictly optional.)
-
-For all material you draw from specific sources (including Einstein’s paper), be sure to use standard footnote conventions and include a bibliography of sources cited at the end. 
-
 ## Paper 2
 
 **Due date:** Friday of Week 8
@@ -53,7 +37,7 @@ While preparing your essay, you should consider at least three of the readings l
 
 A good way to craft an argument or thesis statement is to frame it as the answer to a specific question. Consider the difference between these two candidate thesis statements: (a) “The French Revolution was a time of important changes in society.” (b) “Though often described as a radical departure from previous social and political conditions, the French Revolution ultimately had more in common with the Ancien Régime than with modern democratic societies.” The first example would likely be followed by summaries of information. The second example presents a specific argument that requires supporting evidence and documentation within the body of the paper.
 
-When drawing on readings, use standard footnote conventions and include a bibliography of   
+When drawing on readings, use standard footnote conventions and include a bibliography of    
 sources cited at the end.
 
 ## Paper 2 Revision Exercise
@@ -95,9 +79,9 @@ Revision means to see again, to take a fresh look at the overall product, and to
 
 For this assignment, you will be writing a 10-12 page paper that advances your own specific, historical argument and supports it by citing primary and secondary sources. You should place a priority on clear expression, and write for an intelligent audience that has not necessarily read the sources in question. Your paper should include a clearly stated and focused thesis, and it should support that thesis using properly cited primary and secondary sources. Your paper must draw on at least two primary sources and at least four secondary sources. You may choose to write about either of the two topics listed below.
 
-- **Option A: Physics and Politics in the United States after World War II**  
+- **Option A: Physics and Politics in the United States after World War II**   
     Did the relationship between physics and politics in the US change after the war? If so, how, why, and over what time period? Did the changes affect only certain physicists, or the field of physics more generally?
-- **Option B: German Physicists and Nuclear Weapons Research During World War II**  
+- **Option B: German Physicists and Nuclear Weapons Research During World War II**   
     Did German physicists’ attitudes toward the nuclear program differ from one another? Did their engagement with nuclear weapons change over the course of the war? If so, how, why, and over what time period? How did they characterize their work during and after the war?
 
 A good way to craft a historical argument is to frame it as the answer to a specific question. Consider the difference between these two candidate thesis statements: (a) “The French Revolution was a time of important changes in society.” (b) “Though often described as a radical departure from previous social and political conditions, the French Revolution ultimately had more in common with the Ancien Régime than with modern democratic societies.” The first example would likely be followed by summaries of information. The example presents a specific argument that requires documentation and defense in the body of the paper.
