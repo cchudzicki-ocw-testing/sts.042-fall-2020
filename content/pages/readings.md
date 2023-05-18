@@ -35,6 +35,8 @@ Session 7: The Origins of General Relativity 
 
 Session 8: Rethinking Light 
 
+**Key Date:** Paper 1 (4–5 pp.) due at end of week 5
+
 ### Week 6: Early Stirrings of Quantum Theory 
 
 Session 9: Rethinking Matter 
@@ -55,6 +57,8 @@ Session 13: Physics under Hitler 
 
 Session 14: Radar and the Manhattan Project 
 
+**Key Date:** Paper 2 (6–7 pp.) due at end of week 8
+
 ### Week 9: Wartime Projects 
 
 Session 15: Film: The Day After Trinity 
@@ -70,6 +74,8 @@ Session 18: The Rise of Big Science 
 ### Week 11: Cold War and Counterculture 
 
 Session 19: Counterculture and Science 
+
+**Key Date:** Paper 2 rewrite due at end of week 11
 
 ## IV. Feynman and Postwar Theory 
 
@@ -92,3 +98,5 @@ Session 23: The Birth of Particle Cosmology 
 Session 24: Cosmic Inflation 
 
 Session 25: Course summary
+
+**Key Date:** Paper 3 (10–12 pp.) due at end of week 15
