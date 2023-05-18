@@ -7,3 +7,7 @@ leftnav:
   name: Readings
   url: /pages/readings
   weight: 20
+- identifier: 169c70da-ef12-479c-a679-d3edd879838c
+  name: Readings2
+  url: /pages/readings-v2
+  weight: 30
