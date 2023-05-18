@@ -21,6 +21,8 @@ Session 3: Worldviews, Wranglers, and the Making of Theoretical Physicists 
 
 Session 4: Waves in the Ether 
 
+ 
+
 ## II. Einstein: Relativity, Quanta, and the Philosopher-Scientist 
 
 ### Week 4: Philosophy, Experiment, and Special Relativity 
@@ -49,6 +51,8 @@ Session 11: Waves and Probabilities 
 
 Session 12: Quantum Weirdness: Schrödinger’s Cat, EPR, and Bell’s Theorem 
 
+ 
+
 ## III. Oppenheimer: Physics, Physicists, and the State 
 
 ### Week 8: Physics and the State 
@@ -76,6 +80,8 @@ Session 18: The Rise of Big Science 
 Session 19: Counterculture and Science 
 
 **Key Date:** Paper 2 rewrite due at end of week 11
+
+ 
 
 ## IV. Feynman and Postwar Theory 
 
