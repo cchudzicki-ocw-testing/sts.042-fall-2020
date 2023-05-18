@@ -43,8 +43,8 @@ For paper 1, you completed a close reading of a primary source. For paper 2, you
 
 Using several sources, you will evaluate the relationships between a particular set of ideas and the institutions in which they were embedded. You should select one of the following topics and compose an essay of 6-7 double-spaced pages.
 
-- Option A: General Relativity and the Ivory Tower
-- Option B: Institutions and the Quantum Revolution
+- **Option A: General Relativity and the Ivory Tower**
+- **Option B: Institutions and the Quantum Revolution**
 
 While preparing your essay, you should consider at least three of the readings listed below. Use them as resources to help you articulate and defend a specific argument. The goal of the assignment is not to summarize the readings or merely paraphrase the authors’ arguments, but rather to articulate your own position and defend it using specific examples and evidence from these readings.
 
@@ -53,7 +53,7 @@ While preparing your essay, you should consider at least three of the readings l
 
 A good way to craft an argument or thesis statement is to frame it as the answer to a specific question. Consider the difference between these two candidate thesis statements: (a) “The French Revolution was a time of important changes in society.” (b) “Though often described as a radical departure from previous social and political conditions, the French Revolution ultimately had more in common with the Ancien Régime than with modern democratic societies.” The first example would likely be followed by summaries of information. The second example presents a specific argument that requires supporting evidence and documentation within the body of the paper.
 
-When drawing on readings, use standard footnote conventions and include a bibliography of  
+When drawing on readings, use standard footnote conventions and include a bibliography of   
 sources cited at the end.
 
 ## Paper 2 Revision Exercise
@@ -95,13 +95,21 @@ Revision means to see again, to take a fresh look at the overall product, and to
 
 For this assignment, you will be writing a 10-12 page paper that advances your own specific, historical argument and supports it by citing primary and secondary sources. You should place a priority on clear expression, and write for an intelligent audience that has not necessarily read the sources in question. Your paper should include a clearly stated and focused thesis, and it should support that thesis using properly cited primary and secondary sources. Your paper must draw on at least two primary sources and at least four secondary sources. You may choose to write about either of the two topics listed below.
 
+- **Option A: Physics and Politics in the United States after World War II**  
+    Did the relationship between physics and politics in the US change after the war? If so, how, why, and over what time period? Did the changes affect only certain physicists, or the field of physics more generally?
+- **Option B: German Physicists and Nuclear Weapons Research During World War II**  
+    Did German physicists’ attitudes toward the nuclear program differ from one another? Did their engagement with nuclear weapons change over the course of the war? If so, how, why, and over what time period? How did they characterize their work during and after the war?
+
 A good way to craft a historical argument is to frame it as the answer to a specific question. Consider the difference between these two candidate thesis statements: (a) “The French Revolution was a time of important changes in society.” (b) “Though often described as a radical departure from previous social and political conditions, the French Revolution ultimately had more in common with the Ancien Régime than with modern democratic societies.” The first example would likely be followed by summaries of information. The example presents a specific argument that requires documentation and defense in the body of the paper.
 
 For each paper topic, we have compiled a list of references and made them available on the course website. You are not required to restrict yourself to these sources; however, you are strongly encouraged to talk with Prof. Kaiser and/or your teaching assistant to help you identify additional sources that might be of interest. Likewise, if you prefer to write about a different topic, you must discuss your topic ahead of time with us, so that we can help you identify good sources to use.
 
+- Readings for Option A: Physics and Politics in the United States after World War II
+- Readings for Option B: German Physicists and Nuclear Weapons Research During World War II
+
 ### Making Good Use of Sources:
 
-A “primary source” is any text written by a physicist or other historical figure at the relevant historical moment. For example, the 1949 report by the General Advisory Committee (GAC) to the Atomic Energy Commission is a primary source; the article analyzing the GAC report by historians Peter Galison and Bart Bernstein (“‘In any light’...”) is a secondary source.
+A “primary source” is any text written by a physicist or other historical figure at the relevant historical moment. For example, the 1949 report by the General Advisory Committee (GAC) to the Atomic Energy Commission is a primary source; the article analyzing the GAC report by historians Peter Galison and Bart Bernstein (“‘In any light’…”) is a secondary source.
 
 The goal of this paper is not to summarize what other historians have said about the topic. Instead, you should use those historians’ writings to help you craft your own argument. In a historical paper, primary and secondary sources play different roles. The best historical arguments are ones that are shaped by careful reading and interpretation of the primary sources and by paying attention to what other historians have said about these primary sources and their contexts in secondary sources. Primary sources should be analyzed and interpreted, whereas secondary sources should be referenced to provide background information, or their arguments can be built upon or questioned in your paper.
 
