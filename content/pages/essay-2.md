@@ -25,5 +25,4 @@ While preparing your essay, you should consider at least three of the readings l
 
 A good way to craft an argument or thesis statement is to frame it as the answer to a specific question. Consider the difference between these two candidate thesis statements: (a) “The French Revolution was a time of important changes in society.” (b) “Though often described as a radical departure from previous social and political conditions, the French Revolution ultimately had more in common with the Ancien Régime than with modern democratic societies.” The first example would likely be followed by summaries of information. The second example presents a specific argument that requires supporting evidence and documentation within the body of the paper.
 
-When drawing on readings, use standard footnote conventions and include a bibliography of     
-sources cited at the end.
+When drawing on readings, use standard footnote conventions and include a bibliography of sources cited at the end.
