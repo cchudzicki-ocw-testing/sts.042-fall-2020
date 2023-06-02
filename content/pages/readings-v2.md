@@ -39,7 +39,7 @@ No assigned readings
 
 - Andrew Warwick, “Cambridge mathematics and Cavendish physics: Cunningham, Campbell, and Einstein’s relativity, 1905-1911. Part I: The uses of theory,” Studies in History and Philosophy of Science 23 (1992): 625-56. Optional: Michel Janssen, “Appendix: Special relativity,” in The Cambridge Companion to Einstein, ed, Michel Janssen and Christoph Lehner (New York: Cambridge University Press, 2014), 19-44. 
 
-### Session 7: The Origins of General Relativity 
+### Session 7: A Political History of Gravity 
 
 - Albert Einstein, “What is the theory of relativity?,” in Albert Einstein, Ideas and Opinions, ed. Carl Seelig (New York: Crown Publishers, 1954), 227-32. 
 - David Kaiser, “General relativity primer: Or, how I learned to stop worrying and love curved spacetime,” unpublished manuscript, 2006. 3. Loren Graham, “Do mathematical equations display social attributes?,” Mathematical Intelligencer 22, no. 3 (2000): 31-36. 
