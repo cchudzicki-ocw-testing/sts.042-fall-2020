@@ -29,7 +29,7 @@ uid: e89e2633-dec3-43d5-9a9f-460ba9bf2381
 
 ### Week 5: From Relativity to Quantum Theory 
 
-- Session 7: The Origins of General Relativity 
+- Session 7: A Political History of Gravity 
 - Session 8: Rethinking Light 
 
 ***Key Date:*** Paper 1 (4–5 pp.) due at end of week 5
