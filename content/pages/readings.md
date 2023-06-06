@@ -56,7 +56,7 @@ uid: e89e2633-dec3-43d5-9a9f-460ba9bf2381
 ### Week 9: Wartime Projects 
 
 - Session 15: Film: The Day After Trinity 
-- Session 16: Secrecy and Security in the nuclear age 
+- Session 16: Secrecy and Security in the Nuclear Age 
 
 ### Week 10: Science, Secrecy, and Legacies of the Nuclear Age 
 
@@ -86,6 +86,6 @@ uid: e89e2633-dec3-43d5-9a9f-460ba9bf2381
 ### Week 15: Cosmology and Unification 
 
 - Session 24: Cosmic Inflation 
-- Session 25: Course summary
+- Session 25: Course Summary
 
 ***Key Date:*** Paper 3 (10–12 pp.) due at end of week 15
