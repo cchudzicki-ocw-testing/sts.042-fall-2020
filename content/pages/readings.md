@@ -61,7 +61,7 @@ uid: e89e2633-dec3-43d5-9a9f-460ba9bf2381
 ### Week 10: Science, Secrecy, and Legacies of the Nuclear Age 
 
 - Session 17: Film: Containment 
-- Session 18: The Rise of Big Science 
+- Session 18: Cold War Classroom: Teaching Quantum Theory in Postwar American Physics 
 
 ### Week 11: Cold War and Counterculture 
 
@@ -74,7 +74,7 @@ uid: e89e2633-dec3-43d5-9a9f-460ba9bf2381
 ### Week 12: Particles and Fields 
 
 - Session 20: The Conservative Revolution: QED and Renormalization 
-- Session 21: The Challenge to Field Theory 
+- Session 21: Teaching Feynman's Tools: The Dispersion of Feynman Diagrams in Postwar Physics
 
 ### Week 13: Thanksgiving break
 
@@ -85,7 +85,7 @@ uid: e89e2633-dec3-43d5-9a9f-460ba9bf2381
 
 ### Week 15: Cosmology and Unification 
 
-- Session 24: Cosmic Inflation 
-- Session 25: Course Summary
+- Session 24: The Big Bang, Cosmic Inflation, and the Latest Observations
+- Session 25: String Theory and the Multiverse
 
 ***Key Date:*** Paper 3 (10–12 pp.) due at end of week 15
