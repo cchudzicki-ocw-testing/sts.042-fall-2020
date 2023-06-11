@@ -90,7 +90,7 @@ No assigned readings
 - *Note*: in lieu of the class session, please watch the documentary film, [The Day After Trinity (1981)](https://youtu.be/Vm5fCxXnK7Y), available on YouTube.
 - Robert Serber with Robert Crease, Peace & War: Reminiscences of a Life on the Frontiers of Science (New York: Columbia University Press, 1998), 121-44. 
 
-### Session 16: Secrecy and Security in the nuclear age 
+### Session 16: Secrecy and Security in the Nuclear Age 
 
 - Joint Congressional Committee on Atomic Energy, “Development of a Super Weapon,” hearing typescript dated 9 January 1950, declassified. 
 - David Kaiser, “The atomic secret in red hands? American suspicions of theoretical physicists during the early Cold War,” Representations 90 (2005): 28-60. 
@@ -99,7 +99,7 @@ No assigned readings
 
 - Peter Galison with Jamie Kruse, “[Waste-Wilderness: A Conversation with Peter L. Galison](https://fopnews.wordpress.com/2011/03/31/galison/),” FOP News (21 March 2011).
 
-### Session 18: The Rise of Big Science 
+### Session 18: The Cold War Classroom: Teaching Quantum Theory in Postwar American Physics 
 
 - Philip Morrison, “The laboratory demobilizes,” Bulletin of the Atomic Scientists 2 (Nov 1946): 5-6. 
 - Evelyn Fox Keller, “The anomaly of a woman in physics,” in Working It Out, ed. Sara Ruddick and Pamela Daniels (New York: Pantheon, 1977), 77-91. 
@@ -132,12 +132,12 @@ No assigned readings
 - David Kaiser, “When fields collide,” in Kaiser, Quantum Legacies: Dispatches from an Uncertain World (Chicago: University of Chicago Press, 2020), 183-201. 
 - Leandra Swanner, “Instruments of science or conquest? Neocolonialism and modern American astronomy,” Historical Studies in the Natural Sciences 47 (2017): 392-319. 
 
-### Session 24: Cosmic Inflation 
+### Session 24: The Big Bang, Cosmic Inflation, and the Latest Observations
 
 - Alan Guth and David Kaiser, “Inflationary cosmology: Exploring the universe from the smallest to the largest scales,” Science 307 (11 Feb 2005): 884-890. 
 - David Kaiser, “[Elegant Wiggles: Why the Universe is Lumpy](https://www.huffingtonpost.com/david-kaiser/elegant-wiggles-how-theu_b_1531848.html),” Huffington Post (22 May 2012).
 - *Optional*: David Kaiser, “Cosmic inflation: An informal primer,” unpublished manuscript, 23 November 2011. 
 
-### Session 25: Course summary
+### Session 25: String Theory and the Multiverse
 
 No assigned readings
