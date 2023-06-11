@@ -118,7 +118,7 @@ No assigned readings
 - Richard Feynman, QED: The Strange Theory of Light and Matter (Princeton: Princeton University Press, 1985), 77-101. 
 - David Kaiser, “Physics and Feynman’s Diagrams,” American Scientist 93 (2005): 156- 165. 
 
-### Session 21: The Challenge to Field Theory 
+### Session 21: Teaching Feynman's Tools: The Dispersion of Feynman Diagrams in Postwar Physics 
 
 - Geoffrey Chew, “Impasse for the elementary-particle concept,” in The Sciences Today, ed. Robert Hutchins and Mortimer Adler (New York: Arno, 1977 \[1974\]), 366-99. 
 - David Kaiser, “Nuclear democracy: Political engagement, pedagogical reform, and particle physics in postwar America,” Isis 93 (2002): 229-268. 
