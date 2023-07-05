@@ -80,7 +80,7 @@ uid: e89e2633-dec3-43d5-9a9f-460ba9bf2381
 
 ### Week 14: Standard Models 
 
-- Session 22: Quarks, Gauge Fields, and the Rise of the Standard Model 
+- Session 22: Quarks, QCD, and the Rise of the Standard Model 
 - Session 23: The Birth of Particle Cosmology 
 
 ### Week 15: Cosmology and Unification 
