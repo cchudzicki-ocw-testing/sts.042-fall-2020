@@ -4,7 +4,25 @@
   "level": [
     "Undergraduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ],
+    [
+      "Science",
+      "Physics"
+    ],
+    [
+      "Society"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [
@@ -21,15 +39,16 @@
   "department_numbers": [
     "STS"
   ],
-  "extra_course_numbers": "",
-  "primary_course_number": "STS.042",
+  "extra_course_numbers": "8.225J",
+  "primary_course_number": "STS.042J",
   "course_image_thumbnail": {
     "content": "",
     "website": "sts042-einstein-oppenheimer-feynman-physics-in-the-20th-century"
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Lecture Videos"
+    "Lecture Videos",
+    "Written Assignments"
   ],
   "site_uid": "34d9dcaf-9cd3-4bce-83f7-bc64413dd996",
   "site_short_id": "sts.042-fall-2020"
