@@ -9,7 +9,8 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
