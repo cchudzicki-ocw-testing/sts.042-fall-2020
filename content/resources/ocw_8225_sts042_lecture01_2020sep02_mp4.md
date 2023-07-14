@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: OCW_8.225_STS.042_Lecture01_2020sep02.mp4
+title: 'Lecture 1: Introduction'
 uid: cdd68f4a-ce89-4474-b1b5-8131773d28f6
 video_files:
   archive_url: ''
@@ -20,8 +20,11 @@ video_files:
   video_thumbnail_file: https://img.youtube.com/vi/PbITFIGLciI/default.jpg
   video_transcript_file: ''
 video_metadata:
-  video_speakers: ''
-  video_tags: ''
-  youtube_description: ''
+  video_speakers: David Kaiser
+  video_tags: physics, relativity theory, quantum mechanics, cosmology, world war
+    ii, cold war
+  youtube_description: Prof. Kaiser gives an introduction to the course, gives a course
+    overview, and describes the course aims.
   youtube_id: PbITFIGLciI
 ---
+Prof. Kaiser gives an introduction to the course, gives a course overview, and describes the course aims.
