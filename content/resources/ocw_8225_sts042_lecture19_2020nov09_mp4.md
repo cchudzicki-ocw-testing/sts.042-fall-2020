@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /gdrive_uploads/sts042-einstein-oppenheimer-feynman-physics-in-the-20th-century/1mQCB71NcTgZc4Tw54LDmuDZOsDgNsUXB/ocw_8225_sts042_lecture19_2020nov09.mp4
+file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/ocw_8225_sts042_lecture19_2020nov09_360p_16_9.mp4
 file_size: 3296325354
 file_type: video/mp4
 image_metadata:
@@ -17,11 +17,11 @@ uid: 4d40f5a7-4546-43b4-9725-b24131198213
 video_files:
   archive_url: ''
   video_captions_file: ''
-  video_thumbnail_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/DQg2qBch7Ck/default.jpg
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: ''
+  youtube_id: DQg2qBch7Ck
 ---
