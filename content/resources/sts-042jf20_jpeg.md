@@ -12,7 +12,7 @@ image_metadata:
     \ Radiation Laboratory or \u201CRad Lab\u201D for short. (Image is in the public\
     \ domain.)"
   credit: ''
-  image-alt: A man sits at a desk holding various pieces of radio equipment.
+  image-alt: A man writes at a desk which has various large pieces of radio equipment.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
