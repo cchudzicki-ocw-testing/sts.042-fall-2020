@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: OCW_8.225_STS.042_Lecture02_2020sep09.mp4
+title: 'Lecture 2: Faraday, Thomson, and Maxwell: Lines of Force in the Ether'
 uid: 71944aad-815d-456c-a04c-d3dc7dd420e1
 video_files:
   archive_url: ''
@@ -21,7 +21,9 @@ video_files:
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
-  video_tags: ''
+  video_tags: faraday, ether, force, thomson, maxwell, nineteenth-century, induction,
+    mechanical models
   youtube_description: ''
   youtube_id: OBHUrAFLQW8
 ---
+Prof. Kaiser discusses the difference in physics in the past and now, Faraday and the lines of force in the Ether, and Thomson & Maxwell, and their contributions in math and mechanics.
