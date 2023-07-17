@@ -17,9 +17,9 @@ title: 'Lecture 1: Introduction'
 uid: cdd68f4a-ce89-4474-b1b5-8131773d28f6
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/1mnY4s5dVHGyoNlpqUv-fvC7dxYRlY3ib_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/PbITFIGLciI/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/1mnY4s5dVHGyoNlpqUv-fvC7dxYRlY3ib_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: physics, relativity theory, quantum mechanics, cosmology, world war
