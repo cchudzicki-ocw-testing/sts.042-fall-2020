@@ -15,7 +15,7 @@ uid: 81e7bf05-e342-4599-b2a8-44f76fba2c43
 
 For paper 1, you completed a close reading of a primary source. For paper 2, you will engage with questions about physics and its institutions. Such institutional arrangements may include specific types of research centers, sources of funding, modes of training new researchers, communication networks among colleagues, and so on.
 
-Using several sources, you will evaluate the relationships between a particular set of ideas and the institutions in which they were embedded. You should select one of the following topics and compose an essay of 6-7 double-spaced pages.
+Using several sources, you will evaluate the relationships between a particular set of ideas and the institutions in which they were embedded. You should select one of the following topics and compose an essay of 6–7 double-spaced pages.
 
 - ***Option A:*** **General Relativity and the Ivory Tower**
 - ***Option B:*** **Institutions and the Quantum Revolution**
@@ -34,13 +34,13 @@ Using at least three of the sources listed below, evaluate to what extent and in
 
 Excellent papers can be written adopting all kinds of positions on the question. We are interested in how well you articulate your thesis and defend it using specific evidence and examples. 
 
-- Jean Eisenstaedt, “The low-water mark of general relativity, 1925-1955,” in Einstein and the History of General Relativity, ed. Don Howard and John Stachel (Boston: Birkhäuser, 1989), 277-292.
-- Matthew Stanley, “‘An expedition to heal the wounds of war’: The 1919 eclipse and Eddington as Quaker adventurer,” Isis 94 (2003): 57-89.
-- Loren Graham, “Do mathematical equations display social attributes?,” Mathematical Intelligencer 22, no. 3 (2000): 31-36.
-- Joshua Goldberg, “US Air Force support of general relativity, 1956-1972,” in Studies in the History of General Relativity, ed. J. Eisenstaedt and A. J. Kox (Boston: Birkhäuser, 1988), 89-102.
-- David Kaiser and Dean Rickles, “The price of gravity: Private patronage and the transformation of gravitational physics after World War II," Historical Studies in the Natural Sciences 48 (2018): 338-379.
-- Dan Kennefick, “Gravitational waves and the renaissance of general relativity,” in Kennefick, Traveling at the Speed of Thought: Einstein and the Quest for Gravitational Waves (Princeton: Princeton University Press, 2007), 105-123.
-- Benjamin Wilson and David Kaiser, “Calculating times: Radar, ballisic missiles, and Einstein’s relativity,” in Science and Technology in the Global Cold War, ed. Naomi Oreskes and John Krige (Cambridge: MIT Press, 2014), 273-316.
+- Jean Eisenstaedt, “The low-water mark of general relativity, 1925–1955,” in *Einstein and the History of General Relativity*, ed. Don Howard and John Stachel (Boston: Birkhäuser, 1989), 277–292.
+- Matthew Stanley, “‘An expedition to heal the wounds of war’: The 1919 eclipse and Eddington as Quaker adventurer,” *Isis* 94 (2003): 57–89.
+- Loren Graham, “Do mathematical equations display social attributes?,” *Mathematical Intelligencer* 22, no. 3 (2000): 31–36.
+- Joshua Goldberg, “US Air Force support of general relativity, 1956–1972,” in *Studies in the History of General Relativity*, ed. J. Eisenstaedt and A. J. Kox (Boston: Birkhäuser, 1988), 89–102.
+- David Kaiser and Dean Rickles, “The price of gravity: Private patronage and the transformation of gravitational physics after World War II," *Historical Studies in the Natural Sciences* 48 (2018): 338–379.
+- Dan Kennefick, “Gravitational waves and the renaissance of general relativity,” in Kennefick, *Traveling at the Speed of Thought: Einstein and the Quest for Gravitational Waves* (Princeton: Princeton University Press, 2007), 105–123.
+- Benjamin Wilson and David Kaiser, “Calculating times: Radar, ballistic missiles, and Einstein’s relativity,” in *Science and Technology in the Global Cold War*, ed. Naomi Oreskes and John Krige (Cambridge: MIT Press, 2014), 273–316.
 
 ## Readings for *Option B*: Institutions and the Quantum Revolution
 
@@ -50,10 +50,10 @@ Using at least three of the sources listed below, discuss what roles particular 
 
 Excellent papers can be written adopting all kinds of positions on the question. We are interested in how well you articulate your thesis and defend it using specific evidence and examples.
 
-- John Heilbron, “The earliest missionaries of the Copenhagen spirit,” Revue d’Histoire des Sciences 38, no. 3 (1985): 194-230.
-- David Cassidy, “Heisenberg, uncertainty, and the quantum revolution,” Scientific American 266 (May 1992): 106-102.
-- A. Kozhevnikov and O. Novik, “Analysis of informational ties dynamics in early quantum mechanics (1925-1927),” Acta Historiae Rerum Naturalium Necnon Technicarum 20 (1989): 115-159.
-- Helge Kragh, “Quantum jumps,” in Kragh, Quantum Generations: A History of Physics in the Twentieth Century (Princeton: Princeton University Press, 1999), 155-173.
-- Silvan Schweber, “The young John Clarke Slater and the development of quantum chemistry,” Historical Studies in the Physical and Biological Sciences 20 (1990): 339-406.
-- Stanley Coben, “The scientific establishment and the transmission of quantum mechanics to the United States, 1919-1932,” American Historical Review 76 (April 1971): 442-466.
-- Kenji Ito, “The Geist in the Institute: The production of quantum physicists in 1930s Japan,” in Pedagogy and the Practice of Science: Historical and Contemporary Perspectives (Cambridge: MIT Press, 2005), 151-183.
+- John Heilbron, “The earliest missionaries of the Copenhagen spirit,” *Revue d’Histoire des Sciences* 38, no. 3 (1985): 194–230.
+- David Cassidy, “Heisenberg, uncertainty, and the quantum revolution,” *Scientific American* 266 (May 1992): 106–102.
+- A. Kozhevnikov and O. Novik, “Analysis of informational ties dynamics in early quantum mechanics (1925–1927),” *Acta Historiae Rerum Naturalium Necnon Technicarum* 20 (1989): 115–159.
+- Helge Kragh, “Quantum jumps,” in Kragh, *Quantum Generations: A History of Physics in the Twentieth Century* (Princeton: Princeton University Press, 1999), 155–173.
+- Silvan Schweber, “The young John Clarke Slater and the development of quantum chemistry,” *Historical Studies in the Physical and Biological Sciences* 20 (1990): 339–406.
+- Stanley Coben, “The scientific establishment and the transmission of quantum mechanics to the United States, 1919–1932,” *American Historical Review* 76 (April 1971): 442–466.
+- Kenji Ito, “The Geist in the Institute: The production of quantum physicists in 1930s Japan,” in *Pedagogy and the Practice of Science: Historical and Contemporary Perspectives* (Cambridge: MIT Press, 2005), 151–183.
