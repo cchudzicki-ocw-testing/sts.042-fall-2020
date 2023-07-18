@@ -24,7 +24,16 @@ video_metadata:
   video_speakers: ''
   video_tags: faraday, ether, force, thomson, maxwell, nineteenth-century, induction,
     mechanical models
-  youtube_description: ''
+  youtube_description: "MIT STS.042J / 8.225J Einstein, Oppenheimer, Feynman: Physics\
+    \ in the 20th Century, Fall 2020\nInstructor: David Kaiser\n\nView the complete\
+    \ course: https://ocw.mit.edu/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020\n\
+    YouTube Playlist: https://www.youtube.com/watch?v=-PlloFeJ-ww&list=PLUl4u3cNGP63bAfjGas3TuA4ZCPUtN6Xf\n\
+    \nProf. Kaiser discusses quantum gravity, a messy landscape, and millennial physics.\n\
+    \nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\n\
+    More courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\
+    \nWe encourage constructive comments and discussion on OCW\u2019s YouTube and\
+    \ other social media channels. Personal attacks, hate speech, trolling, and inappropriate\
+    \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: OBHUrAFLQW8
 ---
 Prof. Kaiser discusses the difference in physics in the past and now, Faraday and the lines of force in the Ether, and Thomson & Maxwell, and their contributions in math and mechanics.
