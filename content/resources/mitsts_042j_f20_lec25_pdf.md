@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
-  Lecture 25: String Theory and the Multiverse'
+title: 'Lecture 25: String Theory and the Multiverse'
 uid: 96c64443-bb20-48e3-ad01-9929461cb910
 video_files:
   archive_url: ''
