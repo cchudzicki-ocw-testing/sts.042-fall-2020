@@ -16,9 +16,9 @@ title: OCW_8.225_STS.042_Lecture18_2020Nov04.mp4
 uid: 53790438-c26c-48e5-916c-acc1264910a0
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/1bXaHp4tniZf3gt2kpGzv6SvFS2NMT_gf_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/4dg_TW4gQL8/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/1bXaHp4tniZf3gt2kpGzv6SvFS2NMT_gf_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: ''
