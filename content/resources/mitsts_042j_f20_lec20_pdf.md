@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
-  Lecture 20: The Conservative Revolution: QED and Renormalization'
+title: 'Lecture 20: The Conservative Revolution: QED and Renormalization'
 uid: 98d33976-d4b8-4d83-aa63-12e1d3db4167
 video_files:
   archive_url: ''
