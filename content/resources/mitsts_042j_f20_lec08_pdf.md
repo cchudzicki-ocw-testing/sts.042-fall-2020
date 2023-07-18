@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
-  Lecture 8: Rethinking Light'
+title: 'Lecture 8: Rethinking Light'
 uid: 56402ffd-c457-41e6-ac69-246aa1b357c7
 video_files:
   archive_url: ''
