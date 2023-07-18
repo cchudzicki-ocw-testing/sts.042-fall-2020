@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
-  Lecture 10: Matrices and Uncertainty'
+title: 'Lecture 10: Matrices and Uncertainty'
 uid: 9e695aa6-f467-403e-b586-bb9ea4395698
 video_files:
   archive_url: ''
