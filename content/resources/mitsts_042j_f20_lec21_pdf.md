@@ -13,9 +13,8 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
-  Lecture 21: Teaching Feynman''s Tools: The Dispersion of Feynman Diagrams in Postwar
-  Physics'
+title: 'Lecture 21: Teaching Feynman''s Tools: The Dispersion of Feynman Diagrams
+  in Postwar Physics'
 uid: 52ef71d4-a6f6-4ed6-b64f-00367b5571fc
 video_files:
   archive_url: ''
