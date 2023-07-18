@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
-  Lecture 6: Reception of Special Relativity'
+title: 'Lecture 6: Reception of Special Relativity'
 uid: 96592e34-7f61-4f82-a75d-e5e4b12d1a3c
 video_files:
   archive_url: ''
