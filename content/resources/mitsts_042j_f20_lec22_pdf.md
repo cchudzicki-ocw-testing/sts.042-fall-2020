@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
-  Lecture 22: Quarks, QCD, and the Rise of the Standard Model'
+title: 'Lecture 22: Quarks, QCD, and the Rise of the Standard Model'
 uid: ffa75f5c-e166-446a-b7dd-1b938af44706
 video_files:
   archive_url: ''
