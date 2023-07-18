@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
-  Lecture 19: Counterculture and Science'
+title: 'Lecture 19: Counterculture and Science'
 uid: b86b9a9c-cda1-42c3-b838-97a786968e0b
 video_files:
   archive_url: ''
