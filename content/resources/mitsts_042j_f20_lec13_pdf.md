@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
-  Lecture 13: Physics Under Hitler'
+title: 'Lecture 13: Physics Under Hitler'
 uid: 87d05f27-21d8-48f6-ba5b-d2d432ec98d5
 video_files:
   archive_url: ''
