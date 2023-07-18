@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
-  Lecture 9: Rethinking Matter'
+title: 'Lecture 9: Rethinking Matter'
 uid: 0c17bbea-fa34-4f2e-adf0-d5055d58e4c9
 video_files:
   archive_url: ''
