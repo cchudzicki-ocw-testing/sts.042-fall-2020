@@ -9,10 +9,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: OCW_8.225_STS.042_Lecture21_2020Nov18.mp4
+title: 'Lecture 21: Teaching Feynman''s Tools: The Dispersion of Feynman Diagrams
+  in Postwar Physics'
 uid: 2ca172f8-28a2-4cad-9e7f-e048e393bd70
 video_files:
   archive_url: ''
@@ -21,7 +23,19 @@ video_files:
   video_transcript_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/1CPVpyELPJCXEeTFAV6EhE0j-ryd_dBDp_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
-  youtube_description: ''
+  video_tags: feynman diagram, dispersion, training, pictoral forms, nuclear democracy,
+    pertubation theory
+  youtube_description: "MIT STS.042J / 8.225J Einstein, Oppenheimer, Feynman: Physics\
+    \ in the 20th Century, Fall 2020\nInstructor: David Kaiser\n\nView the complete\
+    \ course: https://ocw.mit.edu/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020\n\
+    YouTube Playlist: https://www.youtube.com/watch?v=-PlloFeJ-ww&list=PLUl4u3cNGP63bAfjGas3TuA4ZCPUtN6Xf\n\
+    \nProf. Kaiser discusses putting new tools into circulation, using new tools toward\
+    \ different ends, and why some tools stick.\n\nLicense: Creative Commons BY-NC-SA\n\
+    More information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
+    Support OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments\
+    \ and discussion on OCW\u2019s YouTube and other social media channels. Personal\
+    \ attacks, hate speech, trolling, and inappropriate comments are not allowed and\
+    \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: ysQ9jcF04Nw
 ---
+Prof. Kaiser discusses putting new tools into circulation, using new tools toward different ends, and why some tools stick.
