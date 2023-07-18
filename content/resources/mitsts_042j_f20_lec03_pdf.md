@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
-  Lecture 3: Worldviews, Wranglers, and the Making of Theoretical Physicists'
+title: 'Lecture 3: Worldviews, Wranglers, and the Making of Theoretical Physicists'
 uid: a991ba1a-c1a9-49e6-acbd-cd8b45b521ef
 video_files:
   archive_url: ''
