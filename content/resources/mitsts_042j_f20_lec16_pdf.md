@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
-  Lecture 16: Secrecy and Security in the Nuclear Age'
+title: 'Lecture 16: Secrecy and Security in the Nuclear Age'
 uid: 7d55d346-5235-45b7-91ac-f8e8dfe16ca5
 video_files:
   archive_url: ''
