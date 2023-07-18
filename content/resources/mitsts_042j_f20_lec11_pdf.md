@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
-  Lecture 11: Waves and Probabilities'
+title: 'Lecture 11: Waves and Probabilities'
 uid: 41db690d-0077-4ed0-a484-5ce788146c80
 video_files:
   archive_url: ''
