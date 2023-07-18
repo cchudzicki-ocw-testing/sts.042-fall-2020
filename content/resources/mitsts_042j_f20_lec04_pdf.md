@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
-  Lecture 4: Waves in the Ether'
+title: 'Lecture 4: Waves in the Ether'
 uid: 4a454dc9-6974-4895-99a3-f79eb99a7dc4
 video_files:
   archive_url: ''
