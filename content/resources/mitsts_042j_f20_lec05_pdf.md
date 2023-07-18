@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
-  Lecture 5: Einstein and Experiment'
+title: 'Lecture 5: Einstein and Experiment'
 uid: 22245583-75e6-4f5d-9322-dd74ddcc7366
 video_files:
   archive_url: ''
