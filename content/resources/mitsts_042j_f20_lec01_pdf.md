@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
-  Lecture 1: Introductory Lecture'
+title: 'Lecture 1: Introductory Lecture'
 uid: a60f1343-f30f-415d-ab2a-e7b6b303b2ab
 video_files:
   archive_url: ''
