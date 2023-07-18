@@ -5,7 +5,7 @@ draft: false
 title: Paper 2 Revision
 uid: cbe8b9d8-448e-457e-90dc-c6e71fd7c858
 ---
-**Assignment:** Revise paper 2. Your revised paper should again be 6-7 double-spaced pages, using standard margins and a 12-point font.
+**Assignment:** Revise paper 2. Your revised paper should again be 6–7 double-spaced pages, using standard margins and a 12-point font.
 
 **Due date:** Friday of Week 11
 
@@ -13,7 +13,7 @@ Revision means to see again, to take a fresh look at the overall product, and to
 
 ### Steps for this revision:
 
-1. What is the thesis? Clarify it, if necessary. Avoid overgeneralization, or a thesis that merely states the obvious. What can you say about this material that gives the reader new insight?
+1. What is the thesis? Clarify it, if necessary. Avoid overgeneralization or a thesis that merely states the obvious. What can you say about this material that gives the reader new insight?
 2. Is there a clear introduction? Does it state the thesis and give a sense of the structure of the paper? Delete any waffly, redundant, or unnecessary parts.
 3. Can you, in a single line, identify how each paragraph contributes to the overall thesis? If any paragraph has two or more significant contributions, split it into multiple paragraphs. If a single point is pursued in several paragraphs, combine them. If any paragraph contains merely additional, unnecessary material, delete it.
 4. Organization: what is the argument of the paper; how is that argument structured? Is there a way to make the argument stronger? Consider rearranging sections, paragraphs, or sentences to make the essay’s argument more effective. Identify additional points that need to be addressed, and points that can be deleted.
