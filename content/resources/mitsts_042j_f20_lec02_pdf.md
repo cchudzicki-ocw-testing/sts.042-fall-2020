@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
-  Lecture 2: Faraday, Thomson, and Maxwell: Lines of Force in the Ether'
+title: 'Lecture 2: Faraday, Thomson, and Maxwell: Lines of Force in the Ether'
 uid: efa64479-209c-4838-98c9-7b832c215219
 video_files:
   archive_url: ''
