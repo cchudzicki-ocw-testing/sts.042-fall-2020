@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
-  Lecture 12: Quantum Weirdness: Schrodinger''s Cat, EPR, and Bell''s Theorem'
+title: 'Lecture 12: Quantum Weirdness: Schrodinger''s Cat, EPR, and Bell''s Theorem'
 uid: 76035648-fe77-4413-b500-219f8ce26a8c
 video_files:
   archive_url: ''
