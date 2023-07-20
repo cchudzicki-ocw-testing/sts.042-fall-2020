@@ -17,9 +17,9 @@ title: 'Session 9: Rethinking Matter'
 uid: 9f2eb850-073e-4804-8136-88fcb5a63d5b
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/1iBhtXdOS4bzkdXz4ekjnyUVOcN-9AAac_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/a2pU4XBIaWI/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/1iBhtXdOS4bzkdXz4ekjnyUVOcN-9AAac_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: quantum theory, matter, atomic structure, rutherford scattering, bohr,

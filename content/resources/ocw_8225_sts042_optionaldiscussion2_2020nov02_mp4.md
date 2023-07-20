@@ -17,9 +17,9 @@ title: 'Optional Discussion: Containment'
 uid: a5ceea57-9aa9-4a69-811e-05b2aced9463
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/1oMAigtIIxAYcscfe3DzfL_r5_PQ6ADzI_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/cJiOSI6df4o/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/1oMAigtIIxAYcscfe3DzfL_r5_PQ6ADzI_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: radioactive, fukushima, weapons plants, radioactive sludge, government,

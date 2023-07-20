@@ -17,9 +17,9 @@ title: 'Optional Discussion: The Day After Trinity'
 uid: 2a187450-f848-4e8b-9f2f-9bd49f434b16
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/1xJSw58-Aw-9oQeXj4ezlYeX1tZwooIpn_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/98ZMZtEXwJ8/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/1xJSw58-Aw-9oQeXj4ezlYeX1tZwooIpn_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: Oppenheimer, Manhattan Project, Atomic Age, Trinity

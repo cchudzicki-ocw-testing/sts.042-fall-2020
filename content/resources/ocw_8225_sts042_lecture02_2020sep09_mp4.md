@@ -17,9 +17,9 @@ title: 'Lecture 2: Faraday, Thomson, and Maxwell: Lines of Force in the Ether'
 uid: 71944aad-815d-456c-a04c-d3dc7dd420e1
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/1eruxcxUdUKPfgMJ3BOWtS1FIvFcCeNLQ_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/OBHUrAFLQW8/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/1eruxcxUdUKPfgMJ3BOWtS1FIvFcCeNLQ_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: faraday, ether, force, thomson, maxwell, nineteenth-century, induction,
