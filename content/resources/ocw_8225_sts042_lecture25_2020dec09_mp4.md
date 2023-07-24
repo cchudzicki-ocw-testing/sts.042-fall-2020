@@ -17,9 +17,9 @@ title: 'Lecture 25: String Theory and the Multiverse'
 uid: b97b79ea-9fba-4f22-995a-c2316f5105a4
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/10JmmLl7NJRPojlRsRdnH5eO2IdsQ8CE2_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/F5uLcfs7pCI/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/10JmmLl7NJRPojlRsRdnH5eO2IdsQ8CE2_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: graviton, infinities, string theory, multiverse, inflation, anthropic,

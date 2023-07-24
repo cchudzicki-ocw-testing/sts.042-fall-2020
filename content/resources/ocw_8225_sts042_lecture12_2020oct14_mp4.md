@@ -18,9 +18,9 @@ title: "Lecture 12: Quantum Weirdness: Schr\xF6dinger\u2019s Cat, EPR, and Bell\
 uid: 99dd0b69-69c0-4c17-aef6-43de0f0be8ea
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/185D0FAkpqTeRBLygiNkSawXeu0Cq35qa_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/KMyRX9q7jss/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/185D0FAkpqTeRBLygiNkSawXeu0Cq35qa_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: "quantum states, epr, reality criterion, locality, entanglement, Schr\xF6\

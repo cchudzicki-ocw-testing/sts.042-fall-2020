@@ -17,9 +17,9 @@ title: 'Lecture 11: Waves and Probabilities'
 uid: 4393c725-b37f-4bc6-a848-1b39c236f979
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/1j9EsjYrUnz-sszYrwckaSNPKCIEJQcC9_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/gWdAc-rPHW8/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/1j9EsjYrUnz-sszYrwckaSNPKCIEJQcC9_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: "Schr\xF6dinger, wave mechanics, quantum mechanics, heisenberg, bohr,\

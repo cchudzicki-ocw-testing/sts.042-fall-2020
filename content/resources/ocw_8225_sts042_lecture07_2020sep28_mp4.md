@@ -17,9 +17,9 @@ title: 'Lecture 7: A Political History of Gravity'
 uid: 2eb45a63-fdaa-4ae0-ba33-201620f0ed34
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/1K7r2aXyxrBbfMtUCSA-AiEnbNSmEsPhG_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/4VH8SW9Tq2A/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/1K7r2aXyxrBbfMtUCSA-AiEnbNSmEsPhG_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: einstein, politics, spacetime, haystack, radar, missile
