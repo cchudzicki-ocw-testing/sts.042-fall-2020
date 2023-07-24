@@ -23,7 +23,7 @@ No assigned readings
 ### Session 4: Waves in the Ether 
 
 - Albert A. Michelson and Edward W. Morley, “[On the relative motion of the Earth and the luminiferous ether](https://www.tandfonline.com/doi/abs/10.1080/14786448708628130),” *American Journal of Science* 34 (November 1887): 333–345. 
-- *Optional*: David Kaiser, “Lecture Notes: Electrodynamics for Maxwell and Lorentz,” September 2018. 
+- *Optional*: David Kaiser, “{{% resource_link "cc13c676-23a2-4671-99dc-48a676d91dff" "Lecture Notes: Electrodynamics for Maxwell and Lorentz (PDF)" %}},” September 2018. 
 
 ## II. Einstein: Relativity, Quanta, and the Philosopher-Scientist 
 
@@ -32,7 +32,7 @@ No assigned readings
 - Albert Einstein, “On the electrodynamics of moving bodies,” translated and reprinted in Arthur I. Miller, *Albert Einstein’s Special Theory of Relativity: Emergence (1905) and Early Interpretation (1905–1911)* (Reading: Addison-Wesley, 1981), 392–6. ISBN: 9780387948706.
 - Amanda Gefter, “[When Einstein tilted at windmills](https://nautil.us/when-einstein-tilted-at-windmills-rp-236254/),” *Nautilus* (December 2016). 
 - Peter Galison, “[Einstein’s clocks: The place of time](https://www.jstor.org/stable/1344127),” *Critical Inquiry 26* (Winter 2000): 355–89. 
-- *Optional*: David Kaiser, “Lecture Notes: E = mc2 ,” September 2020. 
+- *Optional*: David Kaiser, “{{% resource_link "3af8a375-7023-4199-bcc2-801cb6dc67b6" "Lecture Notes: E = mc2 (PDF)" %}},” September 2020. 
 - *Optional*: Michel Janssen, “Appendix: Special relativity,” in *The Cambridge Companion to Einstein*, ed. Michel Janssen and Christoph Lehner (New York: Cambridge University Press, 2014), 1–19. 
 
 ### Session 6: Reception of Special Relativity 
@@ -51,7 +51,7 @@ No assigned readings
 
 - Emilio Segrè, “Planck, unwilling revolutionary: The idea of quantization,” in Emilio Segrè, *From X-Rays to Quarks: Modern Physicists and Their Discoveries* (San Francisco: W. H. Freeman, 1980), 61–77. ISBN: 9780716711469.
 - Thomas Kuhn, “Revisiting Planck,” *Historical Studies in the Physical Sciences* 14 (1984): 231–52. 
-- *Optional:* David Kaiser, “Lecture Notes: Blackbody radiation and Compton scattering,” September 2020.  
+- *Optional:* David Kaiser, “{{% resource_link "82310cf9-5439-415f-903a-6217c33588ba" "Lecture Notes: Blackbody radiation and Compton scattering (PDF)" %}},” September 2020.  
 
 ### Session 9: Rethinking Matter 
 
@@ -67,14 +67,14 @@ No assigned readings
 
 - Walter Moore, *Schrödinger: Life and Thought* (New York: Cambridge University Press, 1989), 191–200. ISBN: 9780521354349.
 - Niels Bohr, “The Bohr-Einstein dialogue,” in *Niels Bohr: A Centenary Volume*, ed. A. P. French and P. J. Kennedy (Cambridge: Harvard University Press, 1985), 121–40. ISBN: 9780674624153.
-- *Optional*: David Kaiser, “Lecture Notes: The double-slit experiment: An adventure in three acts,” March 2011. 
+- *Optional*: David Kaiser, “{{% resource_link "f40d3ef3-4506-42c5-8e60-28a29be2f112" "Lecture Notes: The double-slit experiment: An adventure in three acts (PDF)" %}},” March 2011. 
 
 ### Session 12: Quantum Weirdness: Schrödinger’s Cat, EPR, and Bell’s Theorem 
 
 - Albert Einstein, Boris Podolsky, and Nathan Rosen, “[Can quantum-mechanical description of reality be considered complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777),” *Physical Review* 47 (1935): 777–780. 
 - David Kaiser, “Life-and-death: When nature refuses to select,” in Kaiser, *Quantum Legacies: Dispatches from an Uncertain World* (Chicago: University of Chicago Press, 2020), 29–38. ISBN: 9780226698052.
 - David Kaiser, “Spooky actions at a distance,” in Kaiser, *How the Hippies Saved Physics* (New York: W. W. Norton, 2011), 45–67. ISBN: 9780393342314.
-- *Optional*: David Kaiser, “Lecture Notes: Bell’s inequality and quantum entanglement,” October 2020. 
+- *Optional*: David Kaiser, “{{% resource_link "c69711e6-f115-4408-abeb-5a256e32277e" "Lecture Notes: Bell’s inequality and quantum entanglement (PDF)" %}},” October 2020. 
 
 ## III. Oppenheimer: Physics, Physicists, and the State 
 
@@ -83,7 +83,8 @@ No assigned readings
 - Maria Popova, “[How pioneering physicist Lise Meitner discovered nuclear fission, paved the way for women in science, and was denied the Nobel Prize](https://www.themarginalian.org/2016/10/27/lise-meitner/),” *The Marginalian*. 
 - Peter Galison, “[Marietta Blau: Between Nazis and nuclei](https://doi.org/10.1063/1.881996),” *Physics Today* 50 (Nov. 1997): 42–48. 
 - *Operation Epsilon: The Farm Hall Transcripts*, ed. Charles Frank (Berkeley: University of California Press, 1993), 70-91. ISBN: 9780520084995.
-- *Recommended*: A BBC video production of Michael Frayn’s play, Copenhagen, is available to stream via MIT Libraries: “Copenhagen,” directed by Howard Davies, produced by Richard Fell et al., BBC Worldwide (2002), 
+- *Recommended*: A BBC video production of Michael Frayn’s play, Copenhagen, is available to stream via MIT Libraries: “Copenhagen,” directed by Howard Davies, produced by Richard Fell et al., BBC Worldwide (2002).
+- *Optional*: David Kaiser, “{{% resource_link "54d891cd-e5d9-4722-ad67-3c1b79ab896e" "Lecture Notes: Energy from Nuclear Fission (PDF)" %}},” October 2020. 
 
 ### Session 14: Radar and the Manhattan Project 
 
