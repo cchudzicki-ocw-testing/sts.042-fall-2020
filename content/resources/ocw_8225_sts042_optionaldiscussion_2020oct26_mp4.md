@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Optional Discussion: The Day After Trinity'
+title: 'Optional Discussion: The Day After Trinity (old)'
 uid: 2a187450-f848-4e8b-9f2f-9bd49f434b16
 video_files:
   archive_url: ''
