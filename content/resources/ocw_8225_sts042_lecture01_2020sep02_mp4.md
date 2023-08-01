@@ -13,7 +13,8 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 1: Introduction'
+title: 'Lecture 1: Introduction to Einstein, Oppenheimer, Feynman: Physics in the
+  20th Century'
 uid: cdd68f4a-ce89-4474-b1b5-8131773d28f6
 video_files:
   archive_url: ''
