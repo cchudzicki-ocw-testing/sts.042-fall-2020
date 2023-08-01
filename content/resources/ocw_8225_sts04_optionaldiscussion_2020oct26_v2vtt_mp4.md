@@ -9,10 +9,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: OCW_8.225_STS.04_OptionalDiscussion_2020oct26_v2.vtt.mp4
+title: 'Optional Discussion: The Day After Trinity'
 uid: 4ef72a89-1db9-4bdc-8ff0-a8254a389359
 video_files:
   archive_url: ''
@@ -22,6 +23,16 @@ video_files:
 video_metadata:
   video_speakers: ''
   video_tags: ''
-  youtube_description: ''
+  youtube_description: "MIT STS.042J / 8.225J Einstein, Oppenheimer, Feynman: Physics\
+    \ in the 20th Century, Fall 2020\nInstructor: David Kaiser\n\nView the complete\
+    \ course: https://ocw.mit.edu/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020\n\
+    YouTube Playlist: https://www.youtube.com/watch?v=-PlloFeJ-ww&list=PLUl4u3cNGP63bAfjGas3TuA4ZCPUtN6Xf\n\
+    \nProf. Kaiser leads an optional, informal discussion of the 1981 film The Day\
+    \ After Trinity .\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\n\
+    More courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\
+    \nWe encourage constructive comments and discussion on OCW\u2019s YouTube and\
+    \ other social media channels. Personal attacks, hate speech, trolling, and inappropriate\
+    \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: QfYSZlfBV9A
 ---
+Prof. Kaiser leads an optional, informal discussion of the 1981 film The Day After Trinity.
