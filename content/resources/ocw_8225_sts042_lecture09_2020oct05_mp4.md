@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Session 9: Rethinking Matter'
+title: 'Lecture 9: Rethinking Matter'
 uid: 9f2eb850-073e-4804-8136-88fcb5a63d5b
 video_files:
   archive_url: ''
