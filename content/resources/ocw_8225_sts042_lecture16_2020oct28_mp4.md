@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Session 16: Secrecy and Security in the Nuclear Age'
+title: 'Lecture 16: Secrecy and Security in the Nuclear Age'
 uid: 3f2e6424-469c-49b4-a41f-891357a0b2b4
 video_files:
   archive_url: ''
