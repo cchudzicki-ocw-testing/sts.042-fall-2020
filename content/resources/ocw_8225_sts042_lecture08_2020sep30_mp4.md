@@ -36,4 +36,4 @@ video_metadata:
     \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: Fce9xf_kjyc
 ---
-Prof. Kaiser discusses old vs. new quantum theory, blackbody radiation, the photelectric effect, and Compton scattering.
+Prof. Kaiser discusses old vs. new quantum theory, blackbody radiation, the photoelectric effect, and Compton scattering.
