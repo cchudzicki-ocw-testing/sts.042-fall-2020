@@ -23,8 +23,8 @@ video_files:
   video_transcript_file: /courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/1CPVpyELPJCXEeTFAV6EhE0j-ryd_dBDp_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: feynman diagram, dispersion, training, pictoral forms, nuclear democracy,
-    pertubation theory
+  video_tags: feynman diagram, dispersion, training, pictorial forms, nuclear democracy,
+    perturbation theory
   youtube_description: "MIT STS.042J / 8.225J Einstein, Oppenheimer, Feynman: Physics\
     \ in the 20th Century, Fall 2020\nInstructor: David Kaiser\n\nView the complete\
     \ course: https://ocw.mit.edu/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020\n\
