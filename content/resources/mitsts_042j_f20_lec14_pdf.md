@@ -13,7 +13,8 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Lecture 14: Radar and the Manhattan Project'
+title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
+  Lecture 14: Radar and the Manhattan Project'
 uid: a4bde0ce-4075-4df8-a964-1aeb9d724c0d
 video_files:
   archive_url: ''

@@ -13,8 +13,8 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Lecture 18: Cold War Classroom: Teaching Quantum Theory in Postwar American
-  Physics'
+title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
+  Lecture 18: Cold War Classroom: Teaching Quantum Theory in Postwar American Physics'
 uid: 5c384baa-1d13-41d1-abaf-392f08a8f56b
 video_files:
   archive_url: ''

@@ -13,7 +13,8 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Lecture 23: The Birth of Particle Cosmology'
+title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
+  Lecture 23: The Birth of Particle Cosmology'
 uid: e7dc707b-7f37-4d8b-8cf0-87343993a80b
 video_files:
   archive_url: ''

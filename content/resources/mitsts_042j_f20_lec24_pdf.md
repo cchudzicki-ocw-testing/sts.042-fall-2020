@@ -13,7 +13,8 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Lecture 24: The Big Bang, Cosmic Inflation, and the Latest Observations'
+title: 'STS.042J/8.225J Einstein, Oppenheimer, Feynman: Physics In The 20th Century,
+  Lecture 24: THe Big Bang, Cosmic Inflation, and the Latest Observations'
 uid: 213dc580-5c54-416b-836a-e116ca404925
 video_files:
   archive_url: ''
