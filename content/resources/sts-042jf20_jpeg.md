@@ -7,7 +7,7 @@ file_size: 136590
 file_type: image/jpeg
 image_metadata:
   caption: "During World War II, a heavy emphasis was placed on new technology. This\
-    \ photograph of the receiver lab at MIT in 1941 was part of a secret project to\
+    \ photograph of the receiver lab at MIT in 1941 documents a secret project to\
     \ develop radar during the war. To keep the project secret, it was known as the\
     \ Radiation Laboratory or \u201CRad Lab\u201D for short. (Image is in the public\
     \ domain.)"
@@ -29,4 +29,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-During World War II, a heavy emphasis was placed on new technology. This photograph of the receiver lab at MIT in 1941 was part of a secret project to develop radar during the war. To keep the project secret, it was known as the Radiation Laboratory or “Rad Lab” for short. (Image is in the public domain.)
+During World War II, a heavy emphasis was placed on new technology. This photograph of the receiver lab at MIT in 1941 documents a secret project to develop radar during the war. To keep the project secret, it was known as the Radiation Laboratory or “Rad Lab” for short. (Image is in the public domain.)
