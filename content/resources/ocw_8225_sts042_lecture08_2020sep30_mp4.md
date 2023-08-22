@@ -28,7 +28,7 @@ video_metadata:
     \ course: https://ocw.mit.edu/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020\n\
     YouTube Playlist: https://www.youtube.com/watch?v=-PlloFeJ-ww&list=PLUl4u3cNGP63bAfjGas3TuA4ZCPUtN6Xf\n\
     \nProf. Kaiser discusses old vs. new quantum theory, blackbody radiation, the\
-    \ photelectric effect, and Compton scattering.\n\nLicense: Creative Commons BY-NC-SA\n\
+    \ photoelectric effect, and Compton scattering.\n\nLicense: Creative Commons BY-NC-SA\n\
     More information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
     Support OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments\
     \ and discussion on OCW\u2019s YouTube and other social media channels. Personal\
