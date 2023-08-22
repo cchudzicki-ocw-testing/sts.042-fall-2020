@@ -55,12 +55,12 @@ uid: e89e2633-dec3-43d5-9a9f-460ba9bf2381
 
 ### Week 9: Wartime Projects 
 
-- Session 15: Film: The Day After Trinity 
+- Session 15: Film: *The Day after Trinity* 
 - Session 16: Secrecy and Security in the Nuclear Age 
 
 ### Week 10: Science, Secrecy, and Legacies of the Nuclear Age 
 
-- Session 17: Film: Containment 
+- Session 17: Film: *Containment* 
 - Session 18: Cold War Classroom: Teaching Quantum Theory in Postwar American Physics 
 
 ### Week 11: Cold War and Counterculture 
