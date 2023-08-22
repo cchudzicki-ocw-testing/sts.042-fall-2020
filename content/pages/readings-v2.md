@@ -13,7 +13,7 @@ No assigned readings
 
 ### Session 2: Faraday, Thomson, and Maxwell: Lines of Force in the Ether 
 
-- James Clerk Maxwell, *Treatise on Electricity and Magnetism*, 3rd ed (Oxford: Clarendon, 1892), vol. 1, v-xii, 155–68. ISBN: 9780198503736.
+- James Clerk Maxwell, *Treatise on Electricity and Magnetism*, 3rd ed. (Oxford: Clarendon, 1998), vol. 1, v-xii, 155–68. ISBN: 9780198503736.
 - Bruce J. Hunt, *The Maxwellians* (Ithaca: Cornell University Press, 1991), 73–107. ISBN: 9780801426414.
 
 ### Session 3: Worldviews, Wranglers, and the Making of Theoretical Physicists 
@@ -32,17 +32,17 @@ No assigned readings
 - Albert Einstein, “On the electrodynamics of moving bodies,” translated and reprinted in Arthur I. Miller, *Albert Einstein’s Special Theory of Relativity: Emergence (1905) and Early Interpretation (1905–1911)* (Reading: Addison-Wesley, 1981), 392–6. ISBN: 9780387948706.
 - Amanda Gefter, “[When Einstein tilted at windmills](https://nautil.us/when-einstein-tilted-at-windmills-rp-236254/),” *Nautilus* (December 2016). 
 - Peter Galison, “[Einstein’s clocks: The place of time](https://www.jstor.org/stable/1344127),” *Critical Inquiry 26* (Winter 2000): 355–89. 
-- *Optional*: David Kaiser, “{{% resource_link "3af8a375-7023-4199-bcc2-801cb6dc67b6" "Lecture Notes: E = mc2 (PDF)" %}},” September 2020. 
+- *Optional*: David Kaiser, “{{% resource_link "3af8a375-7023-4199-bcc2-801cb6dc67b6" "Lecture Notes: E = mc<sup>2</sup> (PDF)" %}},” September 2020. 
 - *Optional*: Michel Janssen, “Appendix: Special relativity,” in *The Cambridge Companion to Einstein*, ed. Michel Janssen and Christoph Lehner (New York: Cambridge University Press, 2014), 1–19. 
 
 ### Session 6: Reception of Special Relativity 
 
 - Andrew Warwick, “[Cambridge mathematics and Cavendish physics: Cunningham, Campbell, and Einstein’s relativity, 1905–1911. Part I: The uses of theory](https://doi.org/10.1016/0039-3681(92)90015-X),” *Studies in History and Philosophy of Science* 23 (1992): 625–56. 
-- Optional: Michel Janssen, “Appendix: Special relativity,” in *The Cambridge Companion to Einstein*, ed, Michel Janssen and Christoph Lehner (New York: Cambridge University Press, 2014), 19–44. 
+- Optional: Michel Janssen, “Appendix: Special relativity,” in *The Cambridge Companion to Einstein*, ed. Michel Janssen and Christoph Lehner (New York: Cambridge University Press, 2014), 19–44. 
 
 ### Session 7: A Political History of Gravity 
 
-- Albert Einstein, “What is the theory of relativity?,” in Albert Einstein, *Ideas and Opinions*, ed. Carl Seelig (New York: Crown Publishers, 1954), 227–32. ISBN: 9780517003930.
+- Albert Einstein, “What is the theory of relativity?,” in *Ideas and Opinions*, ed. Carl Seelig (New York: Crown Publishers, 1954), 227–32. ISBN: 9780517003930.
 - David Kaiser, “General relativity primer: Or, how I learned to stop worrying and love curved spacetime,” unpublished manuscript, 2006.
 - Loren Graham, “[Do mathematical equations display social attributes?](https://link.springer.com/article/10.1007/BF03025279),” *Mathematical Intelligencer* 22, no. 3 (2000): 31–36. 
 - *Optional*: David Kaiser, “General relativity: An informal primer,” unpublished manuscript, 21 October 2011. 
@@ -72,8 +72,8 @@ No assigned readings
 ### Session 12: Quantum Weirdness: Schrödinger’s Cat, EPR, and Bell’s Theorem 
 
 - Albert Einstein, Boris Podolsky, and Nathan Rosen, “[Can quantum-mechanical description of reality be considered complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777),” *Physical Review* 47 (1935): 777–780. 
-- David Kaiser, “Life-and-death: When nature refuses to select,” in Kaiser, *Quantum Legacies: Dispatches from an Uncertain World* (Chicago: University of Chicago Press, 2020), 29–38. ISBN: 9780226698052.
-- David Kaiser, “Spooky actions at a distance,” in Kaiser, *How the Hippies Saved Physics* (New York: W. W. Norton, 2011), 45–67. ISBN: 9780393342314.
+- David Kaiser, “Life-and-death: When nature refuses to select,” in *Quantum Legacies: Dispatches from an Uncertain World* (Chicago: University of Chicago Press, 2020), 29–38. ISBN: 9780226698052.
+- David Kaiser, “Spooky actions at a distance,” in *How the Hippies Saved Physics* (New York: W. W. Norton, 2011), 45–67. ISBN: 9780393342314.
 - *Optional*: David Kaiser, “{{% resource_link "c69711e6-f115-4408-abeb-5a256e32277e" "Lecture Notes: Bell’s inequality and quantum entanglement (PDF)" %}},” October 2020. 
 
 ## III. Oppenheimer: Physics, Physicists, and the State 
@@ -82,8 +82,8 @@ No assigned readings
 
 - Maria Popova, “[How pioneering physicist Lise Meitner discovered nuclear fission, paved the way for women in science, and was denied the Nobel Prize](https://www.themarginalian.org/2016/10/27/lise-meitner/),” *The Marginalian*. 
 - Peter Galison, “[Marietta Blau: Between Nazis and nuclei](https://doi.org/10.1063/1.881996),” *Physics Today* 50 (Nov. 1997): 42–48. 
-- *Operation Epsilon: The Farm Hall Transcripts*, ed. Charles Frank (Berkeley: University of California Press, 1993), 70-91. ISBN: 9780520084995.
-- *Recommended*: A BBC video production of Michael Frayn’s play, Copenhagen, is available to stream via MIT Libraries: “Copenhagen,” directed by Howard Davies, produced by Richard Fell et al., BBC Worldwide (2002).
+- *Operation Epsilon: The Farm Hall Transcripts*, ed. Charles Frank (Berkeley: University of California Press, 1993), 70–91. ISBN: 9780520084995.
+- *Recommended*: A BBC video production of Michael Frayn’s play *Copenhagen,* directed by Howard Davies, produced by Richard Fell et al., BBC Worldwide (2002).
 - *Optional*: David Kaiser, “{{% resource_link "54d891cd-e5d9-4722-ad67-3c1b79ab896e" "Lecture Notes: Energy from Nuclear Fission (PDF)" %}},” October 2020. 
 
 ### Session 14: Radar and the Manhattan Project 
@@ -92,7 +92,7 @@ No assigned readings
 
 ### Session 15: Film: The Day After Trinity 
 
-- *Note*: In lieu of the class session, please watch the documentary film, [The Day After Trinity (1981)](https://youtu.be/Vm5fCxXnK7Y), available on YouTube.
+- *Note*: In lieu of the class session, please watch the documentary film, *The Day after Trinity* (1981).
 - Robert Serber with Robert Crease, *Peace & War: Reminiscences of a Life on the Frontiers of Science* (New York: Columbia University Press, 1998), 121–44. ISBN: 9780231105460.
 
 ### Session 16: Secrecy and Security in the Nuclear Age 
@@ -102,18 +102,19 @@ No assigned readings
 
 ### Session 17: Film: Containment 
 
+- *Note*: In lieu of the class session, please watch the film *Containment* (2016), directed and produced by Peter Galison & Robb Moss.
 - Peter Galison with Jamie Kruse, “[Waste-Wilderness: A Conversation with Peter L. Galison](https://fopnews.wordpress.com/2011/03/31/galison/),” *FOP News* (21 March 2011).
 
 ### Session 18: The Cold War Classroom: Teaching Quantum Theory in Postwar American Physics 
 
 - Philip Morrison, “[The laboratory demobilizes](https://www.tandfonline.com/doi/abs/10.1080/00963402.1946.11458041?journalCode=rbul20),” *Bulletin of the Atomic Scientists* 2 (Nov 1946): 5–6. 
 - Evelyn Fox Keller, “The anomaly of a woman in physics,” in *Working It Out*, ed. Sara Ruddick and Pamela Daniels (New York: Pantheon, 1977), 77–91. ISBN: 9780394735573.
-- David Kaiser, “Training quantum mechanics,” in Kaiser, *Quantum Legacies: Dispatches from an Uncertain World* (Chicago: University of Chicago Press, 2020), 116–135. ISBN: 9780226698052.
+- David Kaiser, “Training quantum mechanics,” in *Quantum Legacies: Dispatches from an Uncertain World* (Chicago: University of Chicago Press, 2020), 116–135. ISBN: 9780226698052.
 
 ### Session 19: Counterculture and Science 
 
 - David Kaiser and W. Patrick McCray, “Introduction,” in David Kaiser and W. Patrick McCray, eds., *Groovy Science: Knowledge, Innovation, and American Counterculture* (Chicago: University of Chicago Press, 2016), 1–10. ISBN: 9780226372884.
-- David Kaiser, “Zen and the Art of Textbook Publishing,” in Kaiser, *Quantum Legacies: Dispatches from an Uncertain World* (Chicago: University of Chicago Press, 2020), 136–151. ISBN: 9780226698052.
+- David Kaiser, “Zen and the Art of Textbook Publishing,” in *Quantum Legacies: Dispatches from an Uncertain World* (Chicago: University of Chicago Press, 2020), 136–151. ISBN: 9780226698052.
 
 ## IV. Feynman and Postwar Theory 
 
@@ -130,11 +131,11 @@ No assigned readings
 
 ### Session 22: Quarks, Gauge Fields, and the Rise of the Standard Model 
 
-- David Kaiser, “Something for nothing” and “Higgs hunting,” in Kaiser, *Quantum Legacies: Dispatches from an Uncertain World* (Chicago: University of Chicago Press, 2020), 165–173 and 174–182. ISBN: 9780226698052.
+- David Kaiser, “Something for nothing” and “Higgs hunting,” in *Quantum Legacies: Dispatches from an Uncertain World* (Chicago: University of Chicago Press, 2020), 165–173 and 174–182. ISBN: 9780226698052.
 
 ### Session 23: The Birth of Particle Cosmology 
 
-- David Kaiser, “When fields collide,” in Kaiser, *Quantum Legacies: Dispatches from an Uncertain World* (Chicago: University of Chicago Press, 2020), 183–201. ISBN: 9780226698052.
+- David Kaiser, “When fields collide,” in  *Quantum Legacies: Dispatches from an Uncertain World* (Chicago: University of Chicago Press, 2020), 183–201. ISBN: 9780226698052.
 - Leandra Swanner, “[Instruments of science or conquest? Neocolonialism and modern American astronomy](https://doi.org/10.1525/hsns.2017.47.3.293),” *Historical Studies in the Natural Sciences* 47 (2017): 392–319. 
 
 ### Session 24: The Big Bang, Cosmic Inflation, and the Latest Observations
