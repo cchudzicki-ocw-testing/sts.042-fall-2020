@@ -28,7 +28,7 @@ When drawing on readings, use standard footnote conventions and include a biblio
 
 ## Readings for *Option A*: General Relativity and the Ivory Tower
 
-Prominent textboks often present general relativity as an abstract pursuit, developed in “ivory tower” isolation within academia, separated from concerns of everyday life. But was it so?
+Prominent textbooks often present general relativity as an abstract pursuit, developed in “ivory tower” isolation within academia, separated from concerns of everyday life. But was it so?
 
 Using at least three of the sources listed below, evaluate to what extent and in what ways the pursuit of Einstein’s general relativity was connected to or isolated from the demands of the outside world. What (if any) religious, cultural, political, or technological contexts might have played a role?
 
