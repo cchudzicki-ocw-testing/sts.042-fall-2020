@@ -5,7 +5,7 @@ draft: false
 title: Essays
 uid: b0c6d06d-639c-43cb-98b0-ad3da2d9e948
 ---
-There are three essays and one essay revision for STS.042.
+There are three essays and one essay revision for STS.042. All papers should be double-spaced, in 12-point font, and have standard margins of standard width (1 to 1.25 inches). Acceptable file formats include .doc, .docx, and .pdf.
 
 ## {{% resource_link "f6c5638e-e9c8-49f0-87d4-bfed19acd4f7" "Paper 1" %}}
 
@@ -13,7 +13,7 @@ There are three essays and one essay revision for STS.042.
 
 **Due date:** Friday of Week 5
 
-**Length:** 4–5 double-spaced pages. You should use standard margins (1-inch to 1.25-inches on each side of the page) and a 12-point font. Acceptable file formats include .doc, .docx, and .pdf.
+**Length:** 4–5 double-spaced pages. 
 
 **Grade:** Your grade on Paper 1 will contribute 25% of your final course grade.
 
@@ -21,13 +21,13 @@ There are three essays and one essay revision for STS.042.
 
 **Due date:** Friday of Week 8
 
-**Length:** 6–7 double-spaced pages. You should use standard margins (1-inch to 1.25-inches on each side of the page) and a 12-point font. Acceptable file formats include .doc, .docx, and .pdf.
+**Length:** 6–7 double-spaced pages. 
 
 **Grade**: Your grade on Paper 2 will contribute 20% of your final course grade.
 
 ## {{% resource_link "cbe8b9d8-448e-457e-90dc-c6e71fd7c858" "Paper 2 Revision Exercise" %}}
 
-**Assignment:** Revise paper 2. Your revised paper should again be 6–7 double-spaced pages, using standard margins and a 12-point font.
+**Assignment:** Revise paper 2. Your revised paper should again be 6–7 double-spaced pages.
 
 **Due date:** Friday of Week 11
 
@@ -35,6 +35,6 @@ There are three essays and one essay revision for STS.042.
 
 **Due date:** Wednesday of Week 15
 
-**Length:** 10–12 double-spaced pages. You should use standard margins (1-inch to 1.25-inches on each side of the page) and a 12-point font.
+**Length:** 10–12 double-spaced pages. 
 
 **Grade:** Your grade on Paper 3 will contribute 35% of your final course grade.
