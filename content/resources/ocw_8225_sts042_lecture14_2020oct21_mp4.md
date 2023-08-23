@@ -27,7 +27,7 @@ video_metadata:
   youtube_description: "MIT STS.042J / 8.225J Einstein, Oppenheimer, Feynman: Physics\
     \ in the 20th Century, Fall 2020\nInstructor: David Kaiser\n\nView the complete\
     \ course: https://ocw.mit.edu/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020\n\
-    YouTube Playlist: https://www.youtube.com/watch?v=-PlloFeJ-ww&list=PLUl4u3cNGP63bAfjGas3TuA4ZCPUtN6Xf\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63bAfjGas3TuA4ZCPUtN6Xf\n\
     \nProf. Kaiser discusses the role of radar in the Second World War, the Manhattan\
     \ project, and the research of bombs.\n\nLicense: Creative Commons BY-NC-SA\n\
     More information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
